@@ -1,0 +1,7 @@
+1. Pourquoi utiliser "Two-factor authentication" (Authentification en deux facteurs) ?
+2. Comment configurer "Two-factor authentication" pour le webmail riseup ?
+
+Le nouveau webmail de riseup est roundcube et il prend en charge un outil de sécurité supplémentaire appelé "Two-factor authentication". Un plugin roundcube prend en charge un algorithme appelé "HMAC-based One-time Passwords".
+
+Pourquoi utiliser "Two-factor authentication" ?
+"Two-factor authentication" apporte une couche de sécurité supplémentaire en demandant d'entrer un code aléatoire en complément de votre mot de passe.
